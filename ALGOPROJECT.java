@@ -4,9 +4,9 @@ import java.util.List;
 import java.util.Scanner;
 
 // 12300453  مهند ماجد عبد العظيم, class 9
-// 9 Class , كمال عاطف كمال , 12300467 
+
 // 16 Class , معاذ هشام , 12300396 
-// 12300669 , class 9 , مروان مصطفى محي الدين
+
 
 class Hospital {
     String name;
