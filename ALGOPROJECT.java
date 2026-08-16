@@ -1,4 +1,4 @@
-ackage com.mycompany.algoproject;
+package com.mycompany.algoproject;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
